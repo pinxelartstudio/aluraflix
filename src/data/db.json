@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "titulo": "Cuándo usar LET, Var y Const?",
+        "capa": "/img/1.png",
+        "link": "https://youtu.be/PztCEdIJITY?si=uySeRiO1-RhgcBs0"
+    },
+    {
+        "id": 2,
+        "titulo": "¿Qué es JavaScript?",
+        "capa": "/img/2.png",
+        "link": "https://www.youtube.com/watch?v=GJfOSoaXk4s"
+    },
+    {
+        "id": 3,
+        "titulo": "Equipo Front End",
+        "capa": "/img/3.png",
+        "link": "https://www.youtube.com/watch?v=rpvrLaBQwgg"
+    }
+]
